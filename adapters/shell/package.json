@@ -1,0 +1,22 @@
+{
+	"name": "finn-adapters-shell",
+	"description": "A shell adapter for finn.",
+	"version": "0.1.0",
+	"main": "index.coffee",
+	"keywords": [
+		"finn",
+		"adapter",
+		"shell"
+	],
+	"author": {
+		"name": "Jannis R",
+		"email": "mail@jannisr.de",
+		"url": "http://jannisr.de"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"colors":			"^0.6.2",
+		"simple-spinner":	"^0.0.1"
+	},
+	"engine": "node >= 0.10"
+}

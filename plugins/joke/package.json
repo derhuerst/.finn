@@ -1,0 +1,23 @@
+{
+	"name": "finn-plugins-joke",
+	"description": "A joke plugin for finn.",
+	"version": "0.1.0",
+	"main": "index.coffee",
+	"keywords": [
+		"finn",
+		"plugin",
+		"jokes",
+		"chuck",
+		"norris"
+	],
+	"author": {
+		"name": "Jannis R",
+		"email": "mail@jannisr.de",
+		"url": "http://jannisr.de"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"request":			"^2.39.0"
+	},
+	"engine": "node >= 0.10"
+}

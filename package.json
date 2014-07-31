@@ -1,0 +1,26 @@
+{
+	"name": "dot-finn",
+	"description": "A useful collection of finn adapters and plugins.",
+	"version": "0.1.0",
+	"keywords": [
+		"finn",
+		".finn",
+		"personal assistant",
+		"dotfiles",
+		"collection",
+		"default",
+		"adapters",
+		"plugins"
+	],
+	"author": {
+		"name": "Jannis R",
+		"email": "mail@jannisr.de",
+		"url": "http://jannisr.de"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/derhuerst/.finn.git"
+	},
+	"homepage": "https://github.com/derhuerst/.finn",
+	"engine": "node >= 0.10"
+}

@@ -1,0 +1,22 @@
+{
+	"name": "geoffrey-adapters-http",
+	"description": "An HTTP adapter for geoffrey.",
+	"version": "0.1.0",
+	"main": "index.coffee",
+	"keywords": [
+		"geoffrey",
+		"adapter",
+		"http",
+		"web server",
+		"api"
+	],
+	"author": {
+		"name": "Jannis R",
+		"email": "mail@jannisr.de",
+		"url": "http://jannisr.de"
+	},
+	"license": "MIT",
+	"dependencies": {
+	},
+	"engine": "node >= 0.10"
+}
