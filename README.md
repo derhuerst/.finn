@@ -1,6 +1,6 @@
-# `.finn`
+# .finn
 
-This is the default `resources` folder for [*Finn*](https://github.com/derhuerst/finn). It contains the default [adapters](https://github.com/derhuerst/finn/blob/master/docs/adapters.md), default [plugins](https://github.com/derhuerst/finn/blob/master/docs/plugin.md) and a default `config.coffee` file.
+**This is the default `resources` folder for [*Finn*](https://github.com/derhuerst/finn).** It contains the default [adapters](https://github.com/derhuerst/finn/blob/master/docs/adapters.md), default [plugins](https://github.com/derhuerst/finn/blob/master/docs/plugin.md) and a default `config.coffee` file.
 
 
 
